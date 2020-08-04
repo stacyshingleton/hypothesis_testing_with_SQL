@@ -1,10 +1,3 @@
-
-# Module 3 (V2) - Final Project
-
-
-## Hypothesis Testing Within the Northwind Database
-
-
 ## Objectives
 
 Gather and perform statistical analysis on data from the Northwind database, a database created by Microsoft which contains operational data for a fictional speciality groceries provider. 
